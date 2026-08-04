@@ -1,0 +1,6 @@
+VERSION = "2026.3.5"
+WTYPE = "13"
+RTYPE = "19"
+PUBLIC = "11"
+MIT = "9"
+SEAKR ="7"
