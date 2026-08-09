@@ -3,7 +3,7 @@
 ### What is SeaKrait 🐟
 SeaKrait is the official rebundle and successor to `Looprlib` and `Looprlib-Mit`. \
 All future updates and new features will be released exclusively under the SeaKrait name.\
-SeaKrait was made to change the cofusing name "Looprlib" to something more friendly like Seakrait\
+SeaKrait was made to change the cofusing name "Looprlib" to something more friendly like Seakrait (Maybe this is a bad example ¯\_(ツ)_/¯)\
 Everything from the originals are still here.\
 This is the only version that will continue to update
 
